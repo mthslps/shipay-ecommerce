@@ -1,8 +1,16 @@
 ## Versão do Node: 15.11.0
 
-# Getting Started with Create React App
+## Como começar:
+  
+  Ir para pasta shipay-ecommerce
+  `cd shipay-eccommerce-main`
+  
+  Instalar as dependências
+  `yarn`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  Iniciar a aplicação
+  `yarn start`
+
 
 ## Available Scripts
 
